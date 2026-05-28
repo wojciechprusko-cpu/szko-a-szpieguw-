@@ -1,0 +1,6 @@
+{
+  "name": "Szkoła Szpiegów AI",
+  "description": "Naukowa baza wiedzy, streszczenia wszystkich części oraz inteligentny chatbot AI wyspecjalizowany w serii książek Szkoła szpiegów (Spy School) autorstwa Stuarta Gibbsa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
