@@ -137,16 +137,16 @@ Ben musi udawać luksusowego turystę i jednocześnie badać niedostępne dla go
     difficulty: "Krytyczny",
     coverColor: "from-slate-700 to-purple-950",
     summary: `W dobie Internetu i technologii szpiedzy muszą mierzyć się z nowym zagrożeniem. Ekscentryczny multimiliarder i celebryta technologiczny ogłasza w sieci gigantyczną nagrodę dla każdego internauty, który zdoła wytropić i pojmać... Bena Ripleya! Miliarder twierdzi, że Ben jest groźnym hakerem. 
-
-Ben natychmiast staje się celem milionów amatorów i zawodowych cyber-łowców nagród na całym świecie. Musi uciekać i ukrywać się przed wszechobecnymi kamerami smartfonów. Wraz z Eriką Hale i młodym programistycznym zespołem, Ben rusza do serca Doliny Krzemowej, by powstrzymać systemy inwigilacji zwane Project X. Końcowe starcie w ultranowoczesnym centrum serwerowym decyduje o prawie do prywatności miliardów ludzi na całym świecie.`,
-    analysis: "Satyra na nowoczesne media społecznościowe, kulturę influencerów oraz zagrożenia płynące ze sztucznej inteligencji i masowej inwigilacji korporacyjnej. Ben Ripley uczy się tu, jak walczyć w świecie, w którym prywatność przestała istnieć."
+    
+Ben natychmiast staje się celem milionów amatorów i zawodowych cyber-łowców nagród na całym świecie. Musi uciekać i ukrywać się przed wszechobecnymi kamerami smartfonów i komputerów.`,
+    analysis: "Znakomity komentarz do ery cyfrowej inwigilacji, potęgi algorytmów społecznościowych i zagrożeń płynących ze strony technologicznych korporacji mających monopole na dane."
   }
 ];
 
 export const charactersData: Character[] = [
   {
     id: "ben-ripley",
-    name: "Benjamin Ripley (Ben)",
+    name: "Benjamin Ripley",
     role: "Główny bohater / Matematyczny geniusz",
     intelligence: 98,
     martialArts: 45,

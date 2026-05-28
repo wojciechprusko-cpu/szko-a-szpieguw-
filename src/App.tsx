@@ -650,7 +650,7 @@ export default function App() {
                         }`}
                       >
                         <div className="flex items-center space-x-3">
-                          <div className={`h-8 w-8 rounded-full font-mono text-xs font-bold flex items-center justify-center ${
+                          <div className={`h-8 w-8 rounded-full font-mono text-xs font-bold flex items-center justify-center flex-shrink-0 ${
                             char.alliance === "CIA" 
                               ? "bg-blue-950 text-blue-400 border border-blue-500/30" 
                               : "bg-rose-950 text-rose-400 border border-rose-500/30"
@@ -685,7 +685,7 @@ export default function App() {
                   
                   {/* Character Meta Header card */}
                   <div className="flex flex-col md:flex-row items-center gap-5 p-5 bg-[#0F1426] border border-slate-800 rounded-lg">
-                    <div className={`h-16 w-16 md:h-20 md:w-20 rounded-xl font-mono text-lg md:text-2xl font-bold flex items-center justify-center shadow-lg ${
+                    <div className={`h-16 w-16 md:h-20 md:w-20 rounded-xl font-mono text-lg md:text-2xl font-bold flex items-center justify-center shadow-lg flex-shrink-0 ${
                       selectedCharacter.alliance === "CIA" 
                         ? "bg-gradient-to-br from-blue-600 to-indigo-900 border border-blue-400/30 text-white" 
                         : "bg-gradient-to-br from-rose-600 to-red-900 border border-rose-400/30 text-white"
